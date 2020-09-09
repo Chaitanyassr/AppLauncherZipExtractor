@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFapplauncher", "WPFapplauncher\WPFapplauncher.csproj", "{3104E5ED-1B52-4285-93C3-F9DFBED2BE6C}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "AI Setup Project1", "AI Setup Project1\AI Setup Project1.aiproj", "{EEE5502A-01A8-494A-802B-BBDCD7DE0363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3104E5ED-1B52-4285-93C3-F9DFBED2BE6C}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{3104E5ED-1B52-4285-93C3-F9DFBED2BE6C}.All|Any CPU.Build.0 = Release|Any CPU
+		{3104E5ED-1B52-4285-93C3-F9DFBED2BE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3104E5ED-1B52-4285-93C3-F9DFBED2BE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3104E5ED-1B52-4285-93C3-F9DFBED2BE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3104E5ED-1B52-4285-93C3-F9DFBED2BE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE5502A-01A8-494A-802B-BBDCD7DE0363}.All|Any CPU.ActiveCfg = All
+		{EEE5502A-01A8-494A-802B-BBDCD7DE0363}.All|Any CPU.Build.0 = All
+		{EEE5502A-01A8-494A-802B-BBDCD7DE0363}.Debug|Any CPU.ActiveCfg = All
+		{EEE5502A-01A8-494A-802B-BBDCD7DE0363}.Debug|Any CPU.Build.0 = All
+		{EEE5502A-01A8-494A-802B-BBDCD7DE0363}.Release|Any CPU.ActiveCfg = All
+		{EEE5502A-01A8-494A-802B-BBDCD7DE0363}.Release|Any CPU.Build.0 = All
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FAD7656-B966-44E2-9AAE-F42641FB16E4}
+	EndGlobalSection
+EndGlobal

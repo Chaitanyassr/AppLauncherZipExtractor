@@ -1,0 +1,15 @@
+F:\GitHub\WPFapplauncher\WPFapplauncher\bin\Debug\WPFapplauncher.exe.config
+F:\GitHub\WPFapplauncher\WPFapplauncher\bin\Debug\WPFapplauncher.exe
+F:\GitHub\WPFapplauncher\WPFapplauncher\bin\Debug\WPFapplauncher.pdb
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\WPFapplauncher.csprojAssemblyReference.cache
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\MainWindow.g.cs
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\App.g.cs
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\WPFapplauncher_MarkupCompile.cache
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\WPFapplauncher_MarkupCompile.lref
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\MainWindow.baml
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\WPFapplauncher.g.resources
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\WPFapplauncher.Properties.Resources.resources
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\WPFapplauncher.csproj.GenerateResource.cache
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\WPFapplauncher.csproj.CoreCompileInputs.cache
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\WPFapplauncher.exe
+F:\GitHub\WPFapplauncher\WPFapplauncher\obj\Debug\WPFapplauncher.pdb
